@@ -1,0 +1,51 @@
+body {
+    font-family: "Sunshiney", cursive;
+    letter-spacing: 4px;
+    font-size: 1.5rem;
+    background-image: linear-gradient(yellow, red);
+    margin: 15px 35px 45px 35px;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: left;
+}
+p {
+        font-size: 1.5rem;
+
+}
+#img1, #img2, #img3. #img4, #img5, #img6, #img7, #img8, #img9, #img10 {
+    width: 30%;
+    height: auto;
+    margin-left: 35%;
+    margin-right: 35%;
+    border: 2px red solid;
+    outline: 2px black solid;
+}
+/* FIRST SUBMIT BTN PRACTICE PROBLEM #1 */
+#myBtn, #myBtn2 {
+    width: 10%;
+    height: 80px;
+    font-size: 1rem;
+    font-family: "Sunshiney", cursive;
+    letter-spacing: 3px;
+    border: 2px red solid;
+    outline: 2px white solid;
+}
+#demo, #demo2, #demo3 {
+    width: 10%;
+    height: 70px;
+    font-size: 2rem;
+    font-family: "Sunshiney", cursive;
+    letter-spacing: 3px;
+    border: 2px red solid;
+    outline: 2px white solid;
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 5px;
+}
+footer { 
+    text-align: center;
+}
