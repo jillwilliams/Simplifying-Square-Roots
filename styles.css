@@ -59,6 +59,12 @@ p {
     margin: 15px 40% 15px 40%;
     padding-bottom: 6px;
 }
+iframe {
+    margin: 15px 30% 15px 30%;
+    border: 2px red solid;
+    outline: 2px white solid;
+
+}
 footer { 
     text-align: center;
     font-size: 1rem;
